@@ -1,0 +1,10 @@
+<!-- strings.xml -->
+<resources>
+    <string name="app_name">YourAppName</string>
+    <string name="select_destination_airport">Select Destination Airport</string>
+    <string-array name="airport_names">
+        <item>Airport 1</item>
+        <item>Airport 2</item>
+        <!-- Add more airport names as needed -->
+    </string-array>
+</resources>
